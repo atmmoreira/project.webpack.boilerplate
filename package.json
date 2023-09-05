@@ -1,0 +1,24 @@
+{
+  "name": "project.webpack.boilerplate",
+  "version": "1.0.0",
+  "description": "Frontend environment for building Javascript applications",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atmmoreira/project.webpack.boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atmmoreira/project.webpack.boilerplate/issues"
+  },
+  "homepage": "https://github.com/atmmoreira/project.webpack.boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
