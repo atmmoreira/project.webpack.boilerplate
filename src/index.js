@@ -1,4 +1,2 @@
-import './css/style.css';
-import message from './message';
-
-console.log(message);
+// Import SCSS
+import './scss/style.scss';
